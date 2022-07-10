@@ -13,9 +13,13 @@
 </head>
 <body>
     <?php
-    include "./navbar.php";
+     include "./navbar.php";
+    ?>
+    <div class="container">
+    <?php
+    //include "./navbar.php";
     echo "ยินดีต้อนรับเข้าสู่เวบไซตื";
-    echo  ""
+   
 
     
     // echo"ยินดีต้อนรับเข้าสู่เวบไซต์";
@@ -39,7 +43,7 @@
 
 
 ?>
-
+</div>
     
 </body>
 </html>  

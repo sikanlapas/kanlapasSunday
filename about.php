@@ -12,12 +12,12 @@
 <body>
     <?php
     include"./navbar.php";
-
-
-    ?>
+     ?>
+    <div  class="container">
     
     <h1>เกี่ยวกับเรา</h1>
     <a href="./index.php">Home</a>
     <!-- ไม่ใส่ echo ก็ได้ เพราะใช้คำสั่ง html ก็ได้  -->
+</div>
 </body>
 </html>
