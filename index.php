@@ -18,7 +18,7 @@
     <div class="container">
     <?php
     //include "./navbar.php";
-    echo "ยินดีต้อนรับเข้าสู่เวบไซตื";
+    echo "ยินดีต้อนรับเข้าสู่เวบไซต์";
    
 
     

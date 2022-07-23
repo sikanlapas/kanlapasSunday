@@ -16,9 +16,7 @@
     <?php
     include "./navbar.php";
     echo "ยินดีต้อนรับเข้าสู่เวบไซต์";
-    echo "$_SESSION("
-
-
+    echo "$_SESSION[username]";
     ?>
 
     

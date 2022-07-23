@@ -14,14 +14,11 @@
 <body>
     <?php
     include"./navbar.php";
-
-
-    ?>
+?>
     <div class="container">
-
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-md-4">
-                <h1>log in</h1>
+                <h1>เข้าสู่ระบบ</h1>
                 <form action="check.php" method="POST">
                     Username:
                     <input type="text" name="username" class="form-control" placeholder="กรอกรหัสผู้ใช้" /><br />
@@ -33,7 +30,7 @@
             </div>
         </div>
     </div>
-    <!-- ไม่ใส่ echo ก็ได้ เพราะใช้คำสั่ง html ก็ได้  -->
+
 </body>
 
 </html>
